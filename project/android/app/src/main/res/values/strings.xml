@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bang Bang</string>
+    <string name="title_activity_main">Bang Bang</string>
+    <string name="package_name">com.bangbang.game</string>
+    <string name="custom_url_scheme">com.bangbang.game</string>
+</resources>
